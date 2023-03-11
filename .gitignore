@@ -1,5 +1,7 @@
 .git
-.idea
+.idea/
 Lib
 Scripts
 pyvenv.cfg
+cover.png
+.gitignore
